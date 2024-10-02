@@ -14,6 +14,13 @@ class GD3_LINO_GILBERT_API ACustomCube : public AActor
 public:	
 	// Sets default values for this actor's properties
 	ACustomCube();
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	FLinearColor FinalColor;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UMaterialInstance* Material;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UStaticMeshComponent* CubeMesh;
+	
 
 protected:
 	// Called when the game starts or when spawned
@@ -22,5 +29,6 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
+	UFUNCTION(BlueprintCallable)
+	void ChangeColor();
 };
