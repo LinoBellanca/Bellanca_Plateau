@@ -1,42 +1,45 @@
 # Bellanca_Plateau
 T pour avancer
- Il y a un bouton restart mais les données ne sont pas réinitialisées (théorie) donc il marche pas
+ Il y a un bouton restart mais les donnï¿½es ne sont pas rï¿½initialisï¿½es (thï¿½orie) donc il marche pas
 
  Rappel : Ooga Boogie
- Présentation générale
-Ooga Boogie est un party game où l’action se déroule durant l’âge de pierre. Quatre tribus se battent
-pour obtenir le Grand Feu Sacré et ainsi évoluer vers la nouvelle étape de la civilisation humaine. On
+ Prï¿½sentation gï¿½nï¿½rale
+Ooga Boogie est un party game oï¿½ lï¿½action se dï¿½roule durant lï¿½ï¿½ge de pierre. Quatre tribus se battent
+pour obtenir le Grand Feu Sacrï¿½ et ainsi ï¿½voluer vers la nouvelle ï¿½tape de la civilisation humaine. On
 incarne un des quatre champion qui devra rivaliser avec les autres.
 But du jeu
-Sur le chemin, les hommes des cavernes doivent récolter le plus de ressources ayant plus ou moins
+Sur le chemin, les hommes des cavernes doivent rï¿½colter le plus de ressources ayant plus ou moins
 de valeur, du plus commun au plus rare : Bois, Pierre, Os et Silex. On remporte des ressources en
-tombant sur les cases bonus et en réussissant des mini-jeux et des quêtes.
-Une fois assez de ressources récoltées, le joueur a la possibilité de crafter des Totems Sacrés. Ils
-nécessitent seulement 3 ressources pour être créés, mais leur valeur dépend des dites ressources.
-Ex : le Totem de la Forêt (2 bois et 1 pierre) a moins de valeur que le Totem de la Montagne (3 pierres)
-qui a moins de valeur que le Totem de la Savane (1 bois et 2 os) etc. Le premier arrivé au Grand Feu
-Sacré met fin à la partie. Les Totems sont alors comptabilisés et le joueur ayant le plus de Totems de
+tombant sur les cases bonus et en rï¿½ussissant des mini-jeux et des quï¿½tes.
+Une fois assez de ressources rï¿½coltï¿½es, le joueur a la possibilitï¿½ de crafter des Totems Sacrï¿½s. Ils
+nï¿½cessitent seulement 3 ressources pour ï¿½tre crï¿½ï¿½s, mais leur valeur dï¿½pend des dites ressources.
+Ex : le Totem de la Forï¿½t (2 bois et 1 pierre) a moins de valeur que le Totem de la Montagne (3 pierres)
+qui a moins de valeur que le Totem de la Savane (1 bois et 2 os) etc. Le premier arrivï¿½ au Grand Feu
+Sacrï¿½ met fin ï¿½ la partie. Les Totems sont alors comptabilisï¿½s et le joueur ayant le plus de Totems de
 plus haute valeur gagne.
 Plateau
-Le plateau comptabilise 63 cases avec des décors qui varient (forêt, savane, cavernes, toundra, rivière
-etc…), les joueurs s’y déplacent en lançant à tour de rôle un dé 6. Ils peuvent alors tomber sur
-différentes cases. Les ressources gagnées dépendent de la zone où le joueur se trouve, et plus on est
+Le plateau comptabilise 63 cases avec des dï¿½cors qui varient (forï¿½t, savane, cavernes, toundra, riviï¿½re
+etcï¿½), les joueurs sï¿½y dï¿½placent en lanï¿½ant ï¿½ tour de rï¿½le un dï¿½ 6. Ils peuvent alors tomber sur
+diffï¿½rentes cases. Les ressources gagnï¿½es dï¿½pendent de la zone oï¿½ le joueur se trouve, et plus on est
 proche de la fin du plateau, plus les ressources ont de la valeur.
-Case Bonus : Fait gagner des ressources, fait avancer d’un nombre de cases ou permet de relancer le
-dé. Ex : le vent vous guide vers une piste de gibier, avancez de 2 cases
-Case Malus : Enlève des ressources, fait reculer d’un nombre de cases ou fait relancer le dé (le joueur
-reculera selon le nombre du dé). Ex : vous êtes entré dans la tanière d’un tigre à dents de sabre, vous
+Case Bonus : Fait gagner des ressources, fait avancer dï¿½un nombre de cases ou permet de relancer le
+dï¿½. Ex : le vent vous guide vers une piste de gibier, avancez de 2 cases
+Case Malus : Enlï¿½ve des ressources, fait reculer dï¿½un nombre de cases ou fait relancer le dï¿½ (le joueur
+reculera selon le nombre du dï¿½). Ex : vous ï¿½tes entrï¿½ dans la taniï¿½re dï¿½un tigre ï¿½ dents de sabre, vous
 prenez la fuite et reculez de 3 cases.
-Case Vol : Vole les ressources d’un joueur.
+Case Vol : Vole les ressources dï¿½un joueur.
 Case Mini-jeux : Lance un mini jeu pour tous les joueurs. Ex:
-Réflexion : Recomposer un fossile le plus vite possible en bougeant des plaques.
-Réflexe : Attraper le plus de poissons dans la rivière en cliquant au bon moment.
-Mémoire : Mémoriser la mélodie des tambours et la reproduire.
-Logique : Placer des obstacles pour guider un mammouth dans un piège.
-Rapidité : Rattraper le dodo avant les autres.
-Case Échange : Reconvertir un nombre de ressources pour en acquérir des plus rares. Ex : 10 Bois
+Rï¿½flexion : Recomposer un fossile le plus vite possible en bougeant des plaques.
+Rï¿½flexe : Attraper le plus de poissons dans la riviï¿½re en cliquant au bon moment.
+Mï¿½moire : Mï¿½moriser la mï¿½lodie des tambours et la reproduire.
+Logique : Placer des obstacles pour guider un mammouth dans un piï¿½ge.
+Rapiditï¿½ : Rattraper le dodo avant les autres.
+Case ï¿½change : Reconvertir un nombre de ressources pour en acquï¿½rir des plus rares. Ex : 10 Bois
 pour 1 Silex.
-Stratégies
-Au fil du jeu, le joueur peut soit consommer ses ressources dès le début pour prendre de l’avance, ou
-bien attendre de récupérer des ressources plus rares afin de construire des Totems ayant plus de
+Stratï¿½gies
+Au fil du jeu, le joueur peut soit consommer ses ressources dï¿½s le dï¿½but pour prendre de lï¿½avance, ou
+bien attendre de rï¿½cupï¿½rer des ressources plus rares afin de construire des Totems ayant plus de
 valeur et ainsi changer le cours de la partie.
+
+Score des joueurs affichÃ©s
+Pas de fin pour l'instant, (les pions restent bloquÃ©s)
