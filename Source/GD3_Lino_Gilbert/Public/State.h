@@ -14,7 +14,7 @@ class GD3_LINO_GILBERT_API UState : public UObject
 {
 	GENERATED_BODY()
 	
-protected:
+public:
 	virtual void EntryState();
 	virtual void UpdateState();
 	virtual void ExitState();
