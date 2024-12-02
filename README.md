@@ -49,7 +49,7 @@ Personnages se déplacent case par case sur le plateau, peu importe la distance 
 Case avance de 2
 Case recule de 2
 Case ajoute 2 au score
-Case ouvre mini jeux (au hasard le memory ou la collecte)
+Case ouvre mini jeux (au hasard 50/50 le memory ou la collecte)
 Score des joueurs affichés
 Résultat du ou des dés affiché(s)
 Message indiquant le type de case sur lequel on tombe
@@ -63,6 +63,12 @@ Instructions du jeu
 Memory (MemoryMap) : 
 Cases qui se retourne avec une animation
 Caméra Top Down immobile
+Changement de joueur quand un joueur se trompe
+Score affiché
+Joueur gagne 2 points quand il trouve une paire
+Le joueur rejoue s'il a trouvé une paire
+Écran de fin avec annonce du gagnant
+Le premier à jouer est déterminé au hasard
 
 Collecte (CollectMap) :
 Caméra top down immobile
@@ -77,5 +83,3 @@ Dodo = 2 points
 Dododoré = 5 points
 Spawn des dodos devient de plus en plus fréquent au fil du timer
 Écran de fin avec annonce du gagnant
-
-Le C++ a définitivement failli faire planter définitivement le projet. Voilà ce que j'aurais fait pour le jeu de collecte :
