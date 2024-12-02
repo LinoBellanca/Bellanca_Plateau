@@ -42,6 +42,7 @@ bien attendre de r cup rer des ressources plus rares afin de construire des Tote
 valeur et ainsi changer le cours de la partie.
 
 Plateau Principal (Map):
+Orienter la caméra en maintenant clic droit, zoomer avec la molette, déplacer avec ZQSD
 Dé physique avec détection des faces pour déterminer le nombre
 Nombre de dés modulable (DiceNumber), calcul du résultat en conséquence
 Personnages se déplacent case par case sur le plateau, peu importe la distance ou la position (y compris en reculant)
@@ -55,7 +56,9 @@ Résultat du ou des dés affiché(s)
 Message indiquant le type de case sur lequel on tombe
 Score des joueurs affiché (Joueur 1 en noir, 2 en blanc)
 
+
 Menu (MenuMap) :
+Écran de démarrage du jeu
 Bouton Play
 Bouton Quitter
 Instructions du jeu
